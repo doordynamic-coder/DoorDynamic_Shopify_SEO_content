@@ -1,0 +1,254 @@
+ID,Handle,Command,Title,Author,Body HTML,Created At,Updated At,Published,Published At,Template Suffix,Metafield: description_tag [string],Metafield: title_tag [string],ID (Ref),Handle (Ref),Import Result,Import Comment
+92698050605,contact,MERGE,Contact,,,2023-12-28 06:47:29 -0500,2023-12-28 06:47:29 -0500,true,2023-12-28 06:47:29 -0500,contact,,,166018941231,contact,OK,
+92814999597,about-us,MERGE,About us,,,2024-01-03 08:21:34 -0500,2026-10-13 03:09:51 -0400,true,2024-01-03 08:21:34 -0500,about-us-new,"Doordynamic offers premium automatic door components for Dormakaba, Geze, and more. A top Dunkermotoren partner, we provide custom tech and a 5-year warranty.",,166080741679,about-us,OK,
+92834037805,specification,MERGE,Specification,,,2024-01-03 23:55:33 -0500,2024-01-12 22:30:08 -0500,true,2024-01-03 23:55:33 -0500,,,,166080774447,specification,OK,
+94577721389,technology,MERGE,Technolgoy,,"<style>
+.product-comparison {
+    width: 100%;
+    font-size: 18px;
+}
+
+.product-comparison img {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.header-section {
+    border: 1px solid #000;
+    text-align: center;
+    padding: 15px;
+}
+
+.full-width-image {
+    border: 1px solid #000;
+    border-top-width: 0;
+    padding: 15px;
+}
+
+.image-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    border: 1px solid #000;
+    border-top-width: 0;
+    padding: 15px;
+}
+
+.product-info {
+    border: 1px solid #000;
+    border-top-width: 0;
+    padding: 15px;
+}
+
+.comparison-section {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.comparison-images {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+
+.comparison-text {
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+
+.comparison-image img {
+    border: 1px solid #000;
+}
+@media screen and (max-width: 960px) {
+  .comparison-section {
+    display: grid;
+    grid-template-columns: auto;
+    gap: 15px;
+    margin: 20px 0;
+  }
+}  
+</style>
+
+<div class=""product-comparison"">
+    <div class=""header-section"">
+        <h4>Dunker Motors</h4>
+    </div>
+    
+    <div class=""full-width-image"">
+        <img src=""https://cdn.shopify.com/s/files/1/0613/4448/1325/files/1_2_53b0e81e-17de-442d-9b8d-2ed539996e8d.jpg?v=1711027584"" alt="""">
+    </div>
+    
+    <div class=""image-grid"">
+        <img src=""https://cdn.shopify.com/s/files/1/0613/4448/1325/files/2_1_be0d7e30-5bf6-4855-935f-90eaa30e4f65.jpg?v=1711027622"" alt="""">
+        <img src=""https://cdn.shopify.com/s/files/1/0613/4448/1325/files/3_1.jpg?v=1711027640"" alt="""">
+    </div>
+
+    <div class=""header-section"" style=""border-top-width:0;"">
+        <h4>Dunker Motor Replica</h4>
+    </div>
+
+    <div class=""full-width-image"">
+        <img src=""https://cdn.shopify.com/s/files/1/0613/4448/1325/files/4_1_ad997829-c921-4304-b99b-c7bd59f0652c.jpg?v=1711027736"" alt="""">
+    </div>
+
+    <div class=""product-info"">
+        <h4>Dunker motors advantages</h4>
+        <p>Compared to other motors, Dunker motors are very dynamic, fast and precise. The low wear and low maintenance is also very advantageous for high number of cycles. In addition, Dunker motors are particularly convincing due to their improved energy efficiency and better controllability.</p>
+        
+        <h4>High-torque motors can simplify gearbox design and increase overall durability.</h4>
+        <p>Our specialists compared a 32mm diameter Dunker motor to a motor of the same diameter from another manufacturer. The motors have a similar continuous torque of approx. 45 mNm, but the rated power of 80 W at the competitor differs significantly from the 20 W specified at Dunkermotoren. This is due to the different rated speeds of 15000 vs. 3800 /min. However, to achieve the same torque, other motors require higher rpm, which would overload the gearboxes.</p>
+        
+        <h4>High overload capacity of DC motors</h4>
+        <p>When comparing different motor concepts, not only the power rating but also the high overload capability of the DC motor should be considered. In many applications with cyclic operating modes, it is not the continuous output power that is relevant, but the power that can be achieved in a short time. For example, when an automatic door encounters an obstacle, it needs to stop the door in time, which requires the motor to reach a high power in a short time. In addition, when the automatic door is about to open to the maximum width or before it is about to be completely closed, the door needs to be buffered, which also requires a high overload capacity of the motor. Dunkermotoren brushed and brushless DC motors can handle loads several times the rated torque. This is a feature not found in many other motor designs.</p>
+    </div>
+
+    <div class=""comparison-section"">
+        <div class=""comparison-images"" style=""grid-template-columns: auto;"">
+            <h4>Our microelectronic</h4>
+            <img src=""https://cdn.shopify.com/s/files/1/0613/4448/1325/files/controller_ab5718ef-a6a8-4783-946d-b7e1b19a22b1_480x480.jpg?v=1711672971"" alt="""">
+        </div>
+        <div class=""comparison-text"">
+            <h3>Microelectronic difference</h3>
+            <p>The reason why our microelectronic design is so complex is to provide more safety. We even use a microprocessor to constantly monitor the door in a unusual situation, it will intelligently change operating speed in time to ensure safety.</p>
+        </div>
+    </div>
+
+    <div class=""comparison-section"">
+        <div class=""comparison-images"">
+            <div>
+                <h4>Our wheels</h4>
+                <div class=""comparison-image"">
+                    <img src=""https://cdn.shopify.com/s/files/1/0613/4448/1325/files/ES200_Carriage_Hang_Wheel3_95617a3b-707b-46b2-9de0-d21cd0ce60d9.jpg?v=1710988431"" alt="""">
+                </div>
+            </div>
+            <div>
+                <h4>Low cost Nylon wheels</h4>
+                <div class=""comparison-image"">
+                    <img src=""https://cdn.shopify.com/s/files/1/0613/4448/1325/files/IMG_0292.jpg?v=1710988246"" alt="""">
+                </div>
+            </div>
+        </div>
+        <div class=""comparison-text"">
+            <p>Compared with nylon wheels, our wheels have the characteristics of high strength, wear resistance, corrosion resistance and aging resistance. Therefore our wheels can handle greater weight loads. Our wheels are made from a high molecular polymer material that performs well even in hot or humid conditions.</p>
+        </div>
+    </div>
+
+    <div class=""comparison-section"">
+        <div class=""comparison-images"">
+            <div>
+                <h4>Our Rail Track</h4>
+                <div class=""comparison-image"">
+                    <img src=""https://cdn.shopify.com/s/files/1/0613/4448/1325/files/24-01-2705167_24d57e39-e18b-4218-a4ba-0811cf9ae42c.jpg?v=1710988808"" alt="""">
+                </div>
+            </div>
+            <div>
+                <h4>Other Rail Track</h4>
+                <div class=""comparison-image"">
+                    <img src=""https://cdn.shopify.com/s/files/1/0613/4448/1325/files/IMG_0291.jpg?v=1710988808"" alt="""">
+                </div>
+            </div>
+        </div>
+        <div class=""comparison-text"">
+            <p>The track rail with/without silent rubber strips will directly affect the noise of the automatic sliding door operation.</p>
+        </div>
+    </div>
+</div>",2024-03-20 21:55:46 -0400,2026-07-14 04:49:36 -0400,true,2026-07-14 04:49:36 -0400,,,,166080807215,technology,OK,
+104453701677,faqs,MERGE,FAQs,,"<div id=""faqlite-faqpage-entry-container""></div>",2025-04-05 01:33:28 -0400,2025-04-05 01:33:28 -0400,true,2025-04-05 01:33:28 -0400,,,,166080839983,faqs,OK,
+104453734445,track-order,MERGE,Track Order,,"<div id=""faqlite-topage-entry-container""></div>",2025-04-05 01:33:28 -0400,2025-04-05 01:33:28 -0400,true,2025-04-05 01:33:28 -0400,,,,166080872751,track-order,OK,
+157584752685,geze-page,MERGE,GEZE Page,,,2026-05-21 04:07:16 -0400,2026-05-26 03:13:41 -0400,true,2026-05-21 04:17:53 -0400,page-geze,"Shop premium replacement parts and motors for GEZE automatic doors at Doordynamic. Browse high-quality, reliable components for fast and accurate repairs.",Geze Automatic sliding door parts,166080905519,geze-page,OK,
+157704585261,dormakaba-page,MERGE,Domra automatic sliding door parts,,"<div class=""brand-details-container"" style=""max-width: 1200px; margin: 0 auto; padding: 20px;"">
+    <!-- 这是全页唯一的 H1 标签，完美符合 SEO 标准 -->
+    <h1 style=""text-align: center; font-size: 36px; font-weight: bold; margin-bottom: 20px;"">Dormakaba Automatic Door Parts &amp; Operators</h1>
+    
+    <p style=""font-size: 18px; text-align: center; margin-bottom: 40px; color: #555; line-height: 1.6;"">
+        Maintain the peak performance, safety, and longevity of your automatic doors with our premium replacement parts and entire drive operator systems for <strong>Dormakaba (Dorma)</strong>. From robust sliding door operators to precision-engineered swing door mechanisms, we stock everything you need to keep your entrances moving smoothly.
+    </p>
+
+    <!-- 核心产品系列展示 -->
+    <h2 style=""font-size: 28px; border-bottom: 2px solid #eaeaea; padding-bottom: 10px; margin-bottom: 20px;"">Featured Operators &amp; Systems</h2>
+    
+    <div style=""display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;"">
+        <!-- ES200 -->
+        <div style=""flex: 1 1 calc(50% - 20px); box-sizing: border-box; background: #fafafa; padding: 20px; border-radius: 8px;"">
+            <h3 style=""font-size: 22px; margin-top: 0;"">ES 200 Sliding Door Operator</h3>
+            <p style=""font-size: 16px; line-height: 1.5;"">The flagship modular sliding door system. Known for its powerful Dunker motor and intelligent microprocessor. Perfect for heavy-duty continuous use in airports, malls, and public buildings.</p>
+            <ul style=""font-size: 16px;"">
+                <li>Supports single leaves up to 200 kg or double leaves up to 160 kg each.</li>
+                <li>Fully DIN 18650 / EN 16005 compliant.</li>
+            </ul>
+        </div>
+        <!-- ES200 EASY -->
+        <div style=""flex: 1 1 calc(50% - 20px); box-sizing: border-box; background: #fafafa; padding: 20px; border-radius: 8px;"">
+            <h3 style=""font-size: 22px; margin-top: 0;"">ES 200 EASY</h3>
+            <p style=""font-size: 16px; line-height: 1.5;"">A condensed, highly cost-effective version of the ES200 platform. Designed for standard duty and lighter door configurations without compromising Dormakaba's signature reliability.</p>
+            <ul style=""font-size: 16px;"">
+                <li>Compact tracking profile (100mm/150mm).</li>
+                <li>Fast and straightforward plug-and-play installation.</li>
+            </ul>
+        </div>
+        <!-- ED100 -->
+        <div style=""flex: 1 1 calc(50% - 20px); box-sizing: border-box; background: #fafafa; padding: 20px; border-radius: 8px;"">
+            <h3 style=""font-size: 22px; margin-top: 0;"">ED 100 Swing Door Operator</h3>
+            <p style=""font-size: 16px; line-height: 1.5;"">An elegant electro-mechanical swing door operator. Ultra-quiet and versatile, operating seamlessly in both low-energy and full-energy modes.</p>
+            <ul style=""font-size: 16px;"">
+                <li>Ideal for interior doors up to 100 kg.</li>
+                <li>Integrated wind-load control logic.</li>
+            </ul>
+        </div>
+        <!-- ED250 -->
+        <div style=""flex: 1 1 calc(50% - 20px); box-sizing: border-box; background: #fafafa; padding: 20px; border-radius: 8px;"">
+            <h3 style=""font-size: 22px; margin-top: 0;"">ED 250 Swing Door Operator</h3>
+            <p style=""font-size: 16px; line-height: 1.5;"">The heavy-duty brother to the ED 100. Built for large exterior double doors, fire protection doors, and high-wind environments.</p>
+            <ul style=""font-size: 16px;"">
+                <li>Easily moves heavy leaves up to 250 kg.</li>
+                <li>Advanced safety monitoring and obstacle detection.</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- 更换配件清单 -->
+    <h2 style=""font-size: 28px; border-bottom: 2px solid #eaeaea; padding-bottom: 10px; margin-bottom: 20px;"">Essential Replacement Components</h2>
+    <table style=""width: 100%; border-collapse: collapse; font-size: 18px; margin-bottom: 40px;"">
+        <tbody>
+            <tr>
+                <th style=""background-color: #f0f0f0; border: 1px solid #ccc; padding: 15px; text-align: left; width: 25%;"">Component</th>
+                <th style=""background-color: #f0f0f0; border: 1px solid #ccc; padding: 15px; text-align: left;"">Function &amp; Application</th>
+            </tr>
+            <tr>
+                <td style=""border: 1px solid #ccc; padding: 15px;""><strong>Control Boards (MiniDrive)</strong></td>
+                <td style=""border: 1px solid #ccc; padding: 15px;"">Microprocessor logic controllers for managing acceleration, deceleration, and sensor safety zones. Available in Basic and Pro modules.</td>
+            </tr>
+            <tr>
+                <td style=""border: 1px solid #ccc; padding: 15px;""><strong>Motors &amp; Gearboxes</strong></td>
+                <td style=""border: 1px solid #ccc; padding: 15px;"">Genuine GR63x55 high-torque motor assemblies ensuring long-lasting, whisper-quiet operation without overheating.</td>
+            </tr>
+            <tr>
+                <td style=""border: 1px solid #ccc; padding: 15px;""><strong>Carriage Rollers</strong></td>
+                <td style=""border: 1px solid #ccc; padding: 15px;"">Precision-machined double trolleys and wheels designed to prevent rail chatter and ensure leveling on the track.</td>
+            </tr>
+            <tr>
+                <td style=""border: 1px solid #ccc; padding: 15px;""><strong>Toothed Drive Belts</strong></td>
+                <td style=""border: 1px solid #ccc; padding: 15px;"">Wear-resistant, fiberglass-reinforced timing belts that transfer exact motion without slippage or stretching.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- 底部附加价值说明 -->
+    <h2 style=""font-size: 28px; border-bottom: 2px solid #eaeaea; padding-bottom: 10px; margin-bottom: 15px;"">Why Upgrade &amp; Maintain?</h2>
+    <ul style=""font-size: 18px; line-height: 1.8; margin-bottom: 40px;"">
+        <li>
+<strong style=""color: #333;"">Safety Compliance:</strong> Running original-spec parts ensures your doors continue to meet rigorous international safety directives, preventing liability incidents.</li>
+        <li>
+<strong style=""color: #333;"">First-Time Fix:</strong> Our comprehensive range of circuit boards, sensors, and structural hardware allows technicians to resolve issues quickly in one visit.</li>
+        <li>
+<strong style=""color: #333;"">Universal Integration:</strong> Dormakaba's modular philosophy allows newer components to be retrofitted effortlessly into older track bodies.</li>
+    </ul>
+</div>",2026-05-24 02:35:47 -0400,2026-05-28 05:02:28 -0400,true,2026-05-24 02:35:23 -0400,page-dormakaba,"Doordynamic offers genuine Dormakaba replacement parts, including ES200 control boards, concealed door closers, and heavy-duty floor springs. Explore now!",,166080938287,dormakaba-page,OK,
+157705502765,record-page,MERGE,Record  automatic sliding door parts,,,2026-05-24 04:00:56 -0400,2026-05-28 05:51:54 -0400,true,2026-05-24 04:00:33 -0400,page-record,"Discover high-quality replacement parts, motors, and operators for Record automatic doors. Ensure smooth and reliable operation with our premium components.",,166080971055,record-page,OK,
+157706321965,assa-abloy-page,MERGE,Assa abloy automatic sliding door parts,,,2026-05-24 04:40:07 -0400,2026-05-28 06:04:58 -0400,true,2026-05-24 04:39:56 -0400,page-assa-abloy,"Discover top-quality ASSA ABLOY automatic sliding door parts at Door Dynamic. Stop by for genuine drive units, controllers, sensors, and replacement hardware.",,166081003823,assa-abloy-page,OK,
+157706977325,gilgen-page,MERGE,Gilgen Automatic Door Parts & Components,,,2026-05-24 05:02:08 -0400,2026-05-26 04:14:25 -0400,true,2026-05-24 05:01:39 -0400,page-gilgen,Discover high-quality replacement parts and motors for Gilgen automatic door systems. Shop reliable components with fast shipping and expert global support.,,166081036591,gilgen-page,OK,
+161752219693,case-studies,MERGE,Case Studies,,,2026-10-13 03:10:41 -0400,2026-10-13 03:11:59 -0400,true,2026-10-13 03:11:59 -0400,case-studies,,,166081069359,case-studies,OK,

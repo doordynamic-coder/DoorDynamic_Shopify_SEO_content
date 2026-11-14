@@ -1,2 +1,0 @@
-ID,Name,Command,Active,Fulfills Online Orders,Has Active Inventory,Is Default,Is Fulfillment Service,Created At,Updated At,Address 1,Address 2,City,Province,Province Code,Country,Country Code,Zip,Phone,ID (Ref),Handle (Ref),Import Result,Import Comment
-67437101101,Shop location,MERGE,true,true,true,true,false,2023-12-28 06:47:31 -0500,2023-12-28 06:47:31 -0500,,,,,,China,CN,,,114797019439,Shop location,Failed,input.address.zip: Add a postal / ZIP code (DAT007) | input.address.address1: Add a street for this address (DAT007) | input.address.city: Add a city (DAT007)

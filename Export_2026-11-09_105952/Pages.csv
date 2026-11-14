@@ -1,7 +1,7 @@
-ID,Handle,Command,Title,Author,Body HTML,Created At,Updated At,Published,Published At,Template Suffix,Metafield: description_tag [string],Metafield: title_tag [string],ID (Ref),Handle (Ref),Import Result,Import Comment
-92698050605,contact,MERGE,Contact,,,2023-12-28 06:47:29 -0500,2023-12-28 06:47:29 -0500,true,2023-12-28 06:47:29 -0500,contact,,,166018941231,contact,OK,
-92814999597,about-us,MERGE,About us,,,2024-01-03 08:21:34 -0500,2026-10-13 03:09:51 -0400,true,2024-01-03 08:21:34 -0500,about-us-new,"Doordynamic offers premium automatic door components for Dormakaba, Geze, and more. A top Dunkermotoren partner, we provide custom tech and a 5-year warranty.",,166080741679,about-us,OK,
-92834037805,specification,MERGE,Specification,,,2024-01-03 23:55:33 -0500,2024-01-12 22:30:08 -0500,true,2024-01-03 23:55:33 -0500,,,,166080774447,specification,OK,
+﻿ID,Handle,Command,Title,Author,Body HTML,Created At,Updated At,Published,Published At,Template Suffix,Metafield: description_tag [string],Metafield: title_tag [string]
+92698050605,contact,MERGE,Contact,,,2023-12-28 06:47:29 -0500,2023-12-28 06:47:29 -0500,true,2023-12-28 06:47:29 -0500,contact,,
+92814999597,about-us,MERGE,About us,,,2024-01-03 08:21:34 -0500,2026-10-13 03:09:51 -0400,true,2024-01-03 08:21:34 -0500,about-us-new,"Doordynamic offers premium automatic door components for Dormakaba, Geze, and more. A top Dunkermotoren partner, we provide custom tech and a 5-year warranty.",
+92834037805,specification,MERGE,Specification,,,2024-01-03 23:55:33 -0500,2024-01-12 22:30:08 -0500,true,2024-01-03 23:55:33 -0500,,,
 94577721389,technology,MERGE,Technolgoy,,"<style>
 .product-comparison {
     width: 100%;
@@ -156,10 +156,10 @@ ID,Handle,Command,Title,Author,Body HTML,Created At,Updated At,Published,Publish
             <p>The track rail with/without silent rubber strips will directly affect the noise of the automatic sliding door operation.</p>
         </div>
     </div>
-</div>",2024-03-20 21:55:46 -0400,2026-07-14 04:49:36 -0400,true,2026-07-14 04:49:36 -0400,,,,166080807215,technology,OK,
-104453701677,faqs,MERGE,FAQs,,"<div id=""faqlite-faqpage-entry-container""></div>",2025-04-05 01:33:28 -0400,2025-04-05 01:33:28 -0400,true,2025-04-05 01:33:28 -0400,,,,166080839983,faqs,OK,
-104453734445,track-order,MERGE,Track Order,,"<div id=""faqlite-topage-entry-container""></div>",2025-04-05 01:33:28 -0400,2025-04-05 01:33:28 -0400,true,2025-04-05 01:33:28 -0400,,,,166080872751,track-order,OK,
-157584752685,geze-page,MERGE,GEZE Page,,,2026-05-21 04:07:16 -0400,2026-05-26 03:13:41 -0400,true,2026-05-21 04:17:53 -0400,page-geze,"Shop premium replacement parts and motors for GEZE automatic doors at Doordynamic. Browse high-quality, reliable components for fast and accurate repairs.",Geze Automatic sliding door parts,166080905519,geze-page,OK,
+</div>",2024-03-20 21:55:46 -0400,2026-07-14 04:49:36 -0400,true,2026-07-14 04:49:36 -0400,,,
+104453701677,faqs,MERGE,FAQs,,"<div id=""faqlite-faqpage-entry-container""></div>",2025-04-05 01:33:28 -0400,2025-04-05 01:33:28 -0400,true,2025-04-05 01:33:28 -0400,,,
+104453734445,track-order,MERGE,Track Order,,"<div id=""faqlite-topage-entry-container""></div>",2025-04-05 01:33:28 -0400,2025-04-05 01:33:28 -0400,true,2025-04-05 01:33:28 -0400,,,
+157584752685,geze-page,MERGE,GEZE Page,,,2026-05-21 04:07:16 -0400,2026-05-26 03:13:41 -0400,true,2026-05-21 04:17:53 -0400,page-geze,"Shop premium replacement parts and motors for GEZE automatic doors at Doordynamic. Browse high-quality, reliable components for fast and accurate repairs.",Geze Automatic sliding door parts
 157704585261,dormakaba-page,MERGE,Domra automatic sliding door parts,,"<div class=""brand-details-container"" style=""max-width: 1200px; margin: 0 auto; padding: 20px;"">
     <!-- 这是全页唯一的 H1 标签，完美符合 SEO 标准 -->
     <h1 style=""text-align: center; font-size: 36px; font-weight: bold; margin-bottom: 20px;"">Dormakaba Automatic Door Parts &amp; Operators</h1>
@@ -247,8 +247,8 @@ ID,Handle,Command,Title,Author,Body HTML,Created At,Updated At,Published,Publish
         <li>
 <strong style=""color: #333;"">Universal Integration:</strong> Dormakaba's modular philosophy allows newer components to be retrofitted effortlessly into older track bodies.</li>
     </ul>
-</div>",2026-05-24 02:35:47 -0400,2026-05-28 05:02:28 -0400,true,2026-05-24 02:35:23 -0400,page-dormakaba,"Doordynamic offers genuine Dormakaba replacement parts, including ES200 control boards, concealed door closers, and heavy-duty floor springs. Explore now!",,166080938287,dormakaba-page,OK,
-157705502765,record-page,MERGE,Record  automatic sliding door parts,,,2026-05-24 04:00:56 -0400,2026-05-28 05:51:54 -0400,true,2026-05-24 04:00:33 -0400,page-record,"Discover high-quality replacement parts, motors, and operators for Record automatic doors. Ensure smooth and reliable operation with our premium components.",,166080971055,record-page,OK,
-157706321965,assa-abloy-page,MERGE,Assa abloy automatic sliding door parts,,,2026-05-24 04:40:07 -0400,2026-05-28 06:04:58 -0400,true,2026-05-24 04:39:56 -0400,page-assa-abloy,"Discover top-quality ASSA ABLOY automatic sliding door parts at Door Dynamic. Stop by for genuine drive units, controllers, sensors, and replacement hardware.",,166081003823,assa-abloy-page,OK,
-157706977325,gilgen-page,MERGE,Gilgen Automatic Door Parts & Components,,,2026-05-24 05:02:08 -0400,2026-05-26 04:14:25 -0400,true,2026-05-24 05:01:39 -0400,page-gilgen,Discover high-quality replacement parts and motors for Gilgen automatic door systems. Shop reliable components with fast shipping and expert global support.,,166081036591,gilgen-page,OK,
-161752219693,case-studies,MERGE,Case Studies,,,2026-10-13 03:10:41 -0400,2026-10-13 03:11:59 -0400,true,2026-10-13 03:11:59 -0400,case-studies,,,166081069359,case-studies,OK,
+</div>",2026-05-24 02:35:47 -0400,2026-05-28 05:02:28 -0400,true,2026-05-24 02:35:23 -0400,page-dormakaba,"Doordynamic offers genuine Dormakaba replacement parts, including ES200 control boards, concealed door closers, and heavy-duty floor springs. Explore now!",
+157705502765,record-page,MERGE,Record  automatic sliding door parts,,,2026-05-24 04:00:56 -0400,2026-05-28 05:51:54 -0400,true,2026-05-24 04:00:33 -0400,page-record,"Discover high-quality replacement parts, motors, and operators for Record automatic doors. Ensure smooth and reliable operation with our premium components.",
+157706321965,assa-abloy-page,MERGE,Assa abloy automatic sliding door parts,,,2026-05-24 04:40:07 -0400,2026-05-28 06:04:58 -0400,true,2026-05-24 04:39:56 -0400,page-assa-abloy,"Discover top-quality ASSA ABLOY automatic sliding door parts at Door Dynamic. Stop by for genuine drive units, controllers, sensors, and replacement hardware.",
+157706977325,gilgen-page,MERGE,Gilgen Automatic Door Parts & Components,,,2026-05-24 05:02:08 -0400,2026-05-26 04:14:25 -0400,true,2026-05-24 05:01:39 -0400,page-gilgen,Discover high-quality replacement parts and motors for Gilgen automatic door systems. Shop reliable components with fast shipping and expert global support.,
+161752219693,case-studies,MERGE,Case Studies,,,2026-10-13 03:10:41 -0400,2026-10-13 03:11:59 -0400,true,2026-10-13 03:11:59 -0400,case-studies,,

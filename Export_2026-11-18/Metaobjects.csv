@@ -1,0 +1,370 @@
+﻿ID,Handle,Command,Display Name,Status,Updated At,Definition: Handle,Definition: Name,Top Row,Row #,Field,Value
+107654053933,black,MERGE,Black,,2025-01-28 02:37:54 -0500,shopify--color-pattern,Color,true,1,label,Black
+107654053933,black,MERGE,Black,,2025-01-28 02:37:54 -0500,shopify--color-pattern,Color,,2,color,#000000
+107654053933,black,MERGE,Black,,2025-01-28 02:37:54 -0500,shopify--color-pattern,Color,,3,image,
+107654053933,black,MERGE,Black,,2025-01-28 02:37:54 -0500,shopify--color-pattern,Color,,4,color_taxonomy_reference,color.black
+107654053933,black,MERGE,Black,,2025-01-28 02:37:54 -0500,shopify--color-pattern,Color,,5,pattern_taxonomy_reference,pattern.solid
+125763354669,clear,MERGE,Clear,,2025-06-13 02:37:58 -0400,shopify--color-pattern,Color,true,6,label,Clear
+125763354669,clear,MERGE,Clear,,2025-06-13 02:37:58 -0400,shopify--color-pattern,Color,,7,color,#FFFFFF
+125763354669,clear,MERGE,Clear,,2025-06-13 02:37:58 -0400,shopify--color-pattern,Color,,8,image,
+125763354669,clear,MERGE,Clear,,2025-06-13 02:37:58 -0400,shopify--color-pattern,Color,,9,color_taxonomy_reference,color.clear
+125763354669,clear,MERGE,Clear,,2025-06-13 02:37:58 -0400,shopify--color-pattern,Color,,10,pattern_taxonomy_reference,pattern.solid
+169262907437,green,MERGE,Green,,2025-12-10 03:03:10 -0500,shopify--color-pattern,Color,true,11,label,Green
+169262907437,green,MERGE,Green,,2025-12-10 03:03:10 -0500,shopify--color-pattern,Color,,12,color,#05AA3D
+169262907437,green,MERGE,Green,,2025-12-10 03:03:10 -0500,shopify--color-pattern,Color,,13,image,
+169262907437,green,MERGE,Green,,2025-12-10 03:03:10 -0500,shopify--color-pattern,Color,,14,color_taxonomy_reference,color.green
+169262907437,green,MERGE,Green,,2025-12-10 03:03:10 -0500,shopify--color-pattern,Color,,15,pattern_taxonomy_reference,pattern.solid
+169264414765,multicolor,MERGE,Multicolor,,2025-12-10 03:33:05 -0500,shopify--color-pattern,Color,true,16,label,Multicolor
+169264414765,multicolor,MERGE,Multicolor,,2025-12-10 03:33:05 -0500,shopify--color-pattern,Color,,17,color,
+169264414765,multicolor,MERGE,Multicolor,,2025-12-10 03:33:05 -0500,shopify--color-pattern,Color,,18,image,
+169264414765,multicolor,MERGE,Multicolor,,2025-12-10 03:33:05 -0500,shopify--color-pattern,Color,,19,color_taxonomy_reference,color.multicolor
+169264414765,multicolor,MERGE,Multicolor,,2025-12-10 03:33:05 -0500,shopify--color-pattern,Color,,20,pattern_taxonomy_reference,pattern.other
+169264447533,gray,MERGE,Gray,,2025-12-10 03:33:05 -0500,shopify--color-pattern,Color,true,21,label,Gray
+169264447533,gray,MERGE,Gray,,2025-12-10 03:33:05 -0500,shopify--color-pattern,Color,,22,color,#808080
+169264447533,gray,MERGE,Gray,,2025-12-10 03:33:05 -0500,shopify--color-pattern,Color,,23,image,
+169264447533,gray,MERGE,Gray,,2025-12-10 03:33:05 -0500,shopify--color-pattern,Color,,24,color_taxonomy_reference,color.gray
+169264447533,gray,MERGE,Gray,,2025-12-10 03:33:05 -0500,shopify--color-pattern,Color,,25,pattern_taxonomy_reference,pattern.solid
+169265659949,silver,MERGE,Silver,,2025-12-10 03:50:56 -0500,shopify--color-pattern,Color,true,26,label,Silver
+169265659949,silver,MERGE,Silver,,2025-12-10 03:50:56 -0500,shopify--color-pattern,Color,,27,color,#D3D3D3
+169265659949,silver,MERGE,Silver,,2025-12-10 03:50:56 -0500,shopify--color-pattern,Color,,28,image,
+169265659949,silver,MERGE,Silver,,2025-12-10 03:50:56 -0500,shopify--color-pattern,Color,,29,color_taxonomy_reference,color.silver
+169265659949,silver,MERGE,Silver,,2025-12-10 03:50:56 -0500,shopify--color-pattern,Color,,30,pattern_taxonomy_reference,pattern.solid
+169265725485,white,MERGE,White,,2025-12-10 03:50:56 -0500,shopify--color-pattern,Color,true,31,label,White
+169265725485,white,MERGE,White,,2025-12-10 03:50:56 -0500,shopify--color-pattern,Color,,32,color,#FFFFFF
+169265725485,white,MERGE,White,,2025-12-10 03:50:56 -0500,shopify--color-pattern,Color,,33,image,
+169265725485,white,MERGE,White,,2025-12-10 03:50:56 -0500,shopify--color-pattern,Color,,34,color_taxonomy_reference,color.white
+169265725485,white,MERGE,White,,2025-12-10 03:50:56 -0500,shopify--color-pattern,Color,,35,pattern_taxonomy_reference,pattern.solid
+169268609069,beige,MERGE,Beige,,2025-12-10 04:26:32 -0500,shopify--color-pattern,Color,true,36,label,Beige
+169268609069,beige,MERGE,Beige,,2025-12-10 04:26:32 -0500,shopify--color-pattern,Color,,37,color,#EAD8AB
+169268609069,beige,MERGE,Beige,,2025-12-10 04:26:32 -0500,shopify--color-pattern,Color,,38,image,
+169268609069,beige,MERGE,Beige,,2025-12-10 04:26:32 -0500,shopify--color-pattern,Color,,39,color_taxonomy_reference,color.beige
+169268609069,beige,MERGE,Beige,,2025-12-10 04:26:32 -0500,shopify--color-pattern,Color,,40,pattern_taxonomy_reference,pattern.solid
+186684014637,gold,MERGE,Gold,,2026-03-01 03:40:42 -0500,shopify--color-pattern,Color,true,41,label,Gold
+186684014637,gold,MERGE,Gold,,2026-03-01 03:40:42 -0500,shopify--color-pattern,Color,,42,color,#D49A06
+186684014637,gold,MERGE,Gold,,2026-03-01 03:40:42 -0500,shopify--color-pattern,Color,,43,image,
+186684014637,gold,MERGE,Gold,,2026-03-01 03:40:42 -0500,shopify--color-pattern,Color,,44,color_taxonomy_reference,color.gold
+186684014637,gold,MERGE,Gold,,2026-03-01 03:40:42 -0500,shopify--color-pattern,Color,,45,pattern_taxonomy_reference,pattern.solid
+107653988397,commercial,MERGE,Commercial,,2025-01-28 02:37:54 -0500,shopify--recommended-use,Recommended use,true,46,label,Commercial
+107653988397,commercial,MERGE,Commercial,,2025-01-28 02:37:54 -0500,shopify--recommended-use,Recommended use,,47,taxonomy_reference,recommended-use.commercial
+107654021165,industrial,MERGE,Industrial,,2025-01-28 02:37:54 -0500,shopify--recommended-use,Recommended use,true,48,label,Industrial
+107654021165,industrial,MERGE,Industrial,,2025-01-28 02:37:54 -0500,shopify--recommended-use,Recommended use,,49,taxonomy_reference,recommended-use.industrial
+186678837293,universal,MERGE,Universal,,2026-03-01 01:52:43 -0500,shopify--recommended-use,Recommended use,true,50,label,Universal
+186678837293,universal,MERGE,Universal,,2026-03-01 01:52:43 -0500,shopify--recommended-use,Recommended use,,51,taxonomy_reference,recommended-use.universal
+111819587629,ac-powered,MERGE,AC-powered,,2025-03-13 05:06:55 -0400,shopify--power-source,Power source,true,52,label,AC-powered
+111819587629,ac-powered,MERGE,AC-powered,,2025-03-13 05:06:55 -0400,shopify--power-source,Power source,,53,taxonomy_reference,power-source.ac-powered
+111821062189,dc-powered,MERGE,DC-powered,,2025-03-13 05:39:01 -0400,shopify--power-source,Power source,true,54,label,DC-powered
+111821062189,dc-powered,MERGE,DC-powered,,2025-03-13 05:39:01 -0400,shopify--power-source,Power source,,55,taxonomy_reference,power-source.dc-powered
+179810861101,manual,MERGE,Manual,,2026-01-29 05:23:34 -0500,shopify--power-source,Power source,true,56,label,Manual
+179810861101,manual,MERGE,Manual,,2026-01-29 05:23:34 -0500,shopify--power-source,Power source,,57,taxonomy_reference,power-source.manual
+179810893869,mechanical,MERGE,Mechanical,,2026-01-29 05:23:34 -0500,shopify--power-source,Power source,true,58,label,Mechanical
+179810893869,mechanical,MERGE,Mechanical,,2026-01-29 05:23:34 -0500,shopify--power-source,Power source,,59,taxonomy_reference,power-source.mechanical
+111819620397,infrared,MERGE,Infrared,,2025-03-13 05:06:55 -0400,shopify--connectivity-technology,Connectivity technology,true,60,label,Infrared
+111819620397,infrared,MERGE,Infrared,,2025-03-13 05:06:55 -0400,shopify--connectivity-technology,Connectivity technology,,61,taxonomy_reference,connectivity-technology.infrared
+250328612909,wireless,MERGE,Wireless,,2026-08-15 05:52:13 -0400,shopify--connectivity-technology,Connectivity technology,true,62,label,Wireless
+250328612909,wireless,MERGE,Wireless,,2026-08-15 05:52:13 -0400,shopify--connectivity-technology,Connectivity technology,,63,taxonomy_reference,connectivity-technology.wireless
+111819653165,wall,MERGE,Wall,,2025-03-13 05:06:55 -0400,shopify--mounting-type,Mounting type,true,64,label,Wall
+111819653165,wall,MERGE,Wall,,2025-03-13 05:06:55 -0400,shopify--mounting-type,Mounting type,,65,taxonomy_reference,mounting-type.wall
+111819685933,infrared,MERGE,Infrared,,2025-03-13 05:06:57 -0400,shopify--device-interface,Device interface,true,66,label,Infrared
+111819685933,infrared,MERGE,Infrared,,2025-03-13 05:06:57 -0400,shopify--device-interface,Device interface,,67,taxonomy_reference,device-interface.infrared
+111819849773,microwave,MERGE,Microwave,,2025-03-13 05:10:57 -0400,shopify--motion-sensor-type,Motion sensor type,true,68,label,Microwave
+111819849773,microwave,MERGE,Microwave,,2025-03-13 05:10:57 -0400,shopify--motion-sensor-type,Motion sensor type,,69,taxonomy_reference,motion-sensor-type.microwave
+111821094957,wall,MERGE,Wall,,2025-03-13 05:39:01 -0400,shopify--monitor-mounting-type,Monitor mounting type,true,70,label,Wall
+111821094957,wall,MERGE,Wall,,2025-03-13 05:39:01 -0400,shopify--monitor-mounting-type,Monitor mounting type,,71,taxonomy_reference,monitor-mounting-type.wall
+169262874669,rechargeable,MERGE,Rechargeable,,2025-12-10 03:03:10 -0500,shopify--battery-type,Battery type,true,72,label,Rechargeable
+169262874669,rechargeable,MERGE,Rechargeable,,2025-12-10 03:03:10 -0500,shopify--battery-type,Battery type,,73,taxonomy_reference,battery-type.rechargeable
+169262940205,lithium-ion-li-ion,MERGE,Lithium-ion (Li-ion),,2025-12-10 03:03:10 -0500,shopify--battery-technology,Battery technology,true,74,label,Lithium-ion (Li-ion)
+169262940205,lithium-ion-li-ion,MERGE,Lithium-ion (Li-ion),,2025-12-10 03:03:10 -0500,shopify--battery-technology,Battery technology,,75,taxonomy_reference,battery-technology.lithium-ion-li-ion
+169265102893,metal,MERGE,Metal,,2025-12-10 03:41:40 -0500,shopify--hardware-material,Hardware material,true,76,label,Metal
+169265102893,metal,MERGE,Metal,,2025-12-10 03:41:40 -0500,shopify--hardware-material,Hardware material,,77,taxonomy_reference,hardware-material.metal
+169265692717,plastic,MERGE,Plastic,,2025-12-10 03:50:56 -0500,shopify--hardware-material,Hardware material,true,78,label,Plastic
+169265692717,plastic,MERGE,Plastic,,2025-12-10 03:50:56 -0500,shopify--hardware-material,Hardware material,,79,taxonomy_reference,hardware-material.plastic
+175682781229,nylon,MERGE,Nylon,,2026-01-08 03:28:55 -0500,shopify--hardware-material,Hardware material,true,80,label,Nylon
+175682781229,nylon,MERGE,Nylon,,2026-01-08 03:28:55 -0500,shopify--hardware-material,Hardware material,,81,taxonomy_reference,hardware-material.nylon
+175682813997,steel,MERGE,Steel,,2026-01-08 03:28:55 -0500,shopify--hardware-material,Hardware material,true,82,label,Steel
+175682813997,steel,MERGE,Steel,,2026-01-08 03:28:55 -0500,shopify--hardware-material,Hardware material,,83,taxonomy_reference,hardware-material.steel
+175684419629,aluminum,MERGE,Aluminum,,2026-01-08 04:08:27 -0500,shopify--hardware-material,Hardware material,true,84,label,Aluminum
+175684419629,aluminum,MERGE,Aluminum,,2026-01-08 04:08:27 -0500,shopify--hardware-material,Hardware material,,85,taxonomy_reference,hardware-material.aluminum
+180211548205,stainless-steel,MERGE,Stainless steel,,2026-01-29 23:12:50 -0500,shopify--hardware-material,Hardware material,true,86,label,Stainless steel
+180211548205,stainless-steel,MERGE,Stainless steel,,2026-01-29 23:12:50 -0500,shopify--hardware-material,Hardware material,,87,taxonomy_reference,hardware-material.stainless-steel
+169268641837,plastic,MERGE,Plastic,,2025-12-10 04:26:32 -0500,shopify--material,Material,true,88,label,Plastic
+169268641837,plastic,MERGE,Plastic,,2025-12-10 04:26:32 -0500,shopify--material,Material,,89,taxonomy_reference,material.plastic
+175413592109,metal,MERGE,Metal,,2026-01-06 04:57:16 -0500,shopify--material,Material,true,90,label,Metal
+175413592109,metal,MERGE,Metal,,2026-01-06 04:57:16 -0500,shopify--material,Material,,91,taxonomy_reference,material.metal
+196471947309,rubber,MERGE,Rubber,,2026-04-08 22:58:04 -0400,shopify--material,Material,true,92,label,Rubber
+196471947309,rubber,MERGE,Rubber,,2026-04-08 22:58:04 -0400,shopify--material,Material,,93,taxonomy_reference,material.rubber
+175413887021,modular,MERGE,Modular,,2026-01-06 05:02:23 -0500,shopify--controller-design,Controller design,true,94,label,Modular
+175413887021,modular,MERGE,Modular,,2026-01-06 05:02:23 -0500,shopify--controller-design,Controller design,,95,taxonomy_reference,controller-design.modular
+179810795565,matte,MERGE,Matte,,2026-01-29 05:23:34 -0500,shopify--hardware-finish,Hardware finish,true,96,label,Matte
+179810795565,matte,MERGE,Matte,,2026-01-29 05:23:34 -0500,shopify--hardware-finish,Hardware finish,,97,taxonomy_reference,hardware-finish.matte
+186678804525,satin,MERGE,Satin,,2026-03-01 01:52:43 -0500,shopify--hardware-finish,Hardware finish,true,98,label,Satin
+186678804525,satin,MERGE,Satin,,2026-03-01 01:52:43 -0500,shopify--hardware-finish,Hardware finish,,99,taxonomy_reference,hardware-finish.satin
+179810828333,floor,MERGE,Floor,,2026-01-29 05:23:34 -0500,shopify--door-closer-design,Door closer design,true,100,label,Floor
+179810828333,floor,MERGE,Floor,,2026-01-29 05:23:34 -0500,shopify--door-closer-design,Door closer design,,101,taxonomy_reference,door-closer-design.floor
+179810926637,double-leaf,MERGE,Double-leaf,,2026-01-29 05:23:35 -0500,shopify--suitable-for-door-type,Suitable for door type,true,102,label,Double-leaf
+179810926637,double-leaf,MERGE,Double-leaf,,2026-01-29 05:23:35 -0500,shopify--suitable-for-door-type,Suitable for door type,,103,taxonomy_reference,suitable-for-door-type.double-leaf
+180208304173,single-leaf,MERGE,Single-leaf,,2026-01-29 22:40:42 -0500,shopify--suitable-for-door-type,Suitable for door type,true,104,label,Single-leaf
+180208304173,single-leaf,MERGE,Single-leaf,,2026-01-29 22:40:42 -0500,shopify--suitable-for-door-type,Suitable for door type,,105,taxonomy_reference,suitable-for-door-type.single-leaf
+180211744813,floor,MERGE,Floor,,2026-01-29 23:20:15 -0500,shopify--door-stop-placement,Door stop placement,true,106,label,Floor
+180211744813,floor,MERGE,Floor,,2026-01-29 23:20:15 -0500,shopify--door-stop-placement,Door stop placement,,107,taxonomy_reference,door-stop-placement.floor
+180403798061,wall,MERGE,Wall,,2026-02-01 01:21:19 -0500,shopify--door-stop-placement,Door stop placement,true,108,label,Wall
+180403798061,wall,MERGE,Wall,,2026-02-01 01:21:19 -0500,shopify--door-stop-placement,Door stop placement,,109,taxonomy_reference,door-stop-placement.wall
+180404191277,left,MERGE,Left,,2026-02-01 01:30:09 -0500,shopify--hand-side,Hand side,true,110,label,Left
+180404191277,left,MERGE,Left,,2026-02-01 01:30:09 -0500,shopify--hand-side,Hand side,,111,taxonomy_reference,hand-side.left
+186680934445,both-sides,MERGE,Both sides,,2026-03-01 02:44:45 -0500,shopify--hand-side,Hand side,true,112,label,Both sides
+186680934445,both-sides,MERGE,Both sides,,2026-03-01 02:44:45 -0500,shopify--hand-side,Hand side,,113,taxonomy_reference,hand-side.both-sides
+196471980077,ready-to-finish,MERGE,Ready to finish,,2026-04-08 22:58:04 -0400,shopify--door-frame-finish,Door frame finish,true,114,label,Ready to finish
+196471980077,ready-to-finish,MERGE,Ready to finish,,2026-04-08 22:58:04 -0400,shopify--door-frame-finish,Door frame finish,,115,taxonomy_reference,door-frame-finish.ready-to-finish
+221024616493,high,MERGE,High,,2026-06-15 00:35:10 -0400,shopify--security-level,Security level,true,116,label,High
+221024616493,high,MERGE,High,,2026-06-15 00:35:10 -0400,shopify--security-level,Security level,,117,taxonomy_reference,security-level.high
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,118,external_id,business_dna_business_overview
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,119,published,false
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,120,category,basic_info
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,121,source,storefront
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,122,title,Description
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,123,value_string,
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,124,value_string_list,
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,125,value_boolean,
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,126,value_number,
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,127,value_reference,
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,128,references,
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,129,suggested_value_string,"DoorDynamic is a Guangzhou-based manufacturer and supplier of automatic door components, evolving from a 1999 service agency to an independent brand with in-house R&D and CE certification. They specialize in high-quality operators for major brands, serving global clients like Venetian Macao and Huawei."
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,130,suggested_value_string_list,
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,131,suggested_value_boolean,
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,132,suggested_value_number,
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,133,suggested_value_reference,
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,134,suggested_references,
+263842496557,business_dna_business_overview,MERGE,Description,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,135,suggestion_state,
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,136,external_id,target_audience
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,137,published,false
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,138,category,basic_info
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,139,source,storefront
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,140,title,Target audience
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,141,value_string,
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,142,value_string_list,
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,143,value_boolean,
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,144,value_number,
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,145,value_reference,
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,146,references,
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,147,suggested_value_string,"Contractors, door installers, facility managers, and businesses requiring automatic door maintenance or installation."
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,148,suggested_value_string_list,
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,149,suggested_value_boolean,
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,150,suggested_value_number,
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,151,suggested_value_reference,
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,152,suggested_references,
+263842529325,target_audience,MERGE,Target audience,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,153,suggestion_state,
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,154,external_id,business_dna_brand_values
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,155,published,false
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,156,category,brand_info
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,157,source,storefront
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,158,title,Brand values
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,159,value_string,
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,160,value_string_list,
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,161,value_boolean,
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,162,value_number,
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,163,value_reference,
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,164,references,
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,165,suggested_value_string,
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,166,suggested_value_string_list,"[""Engineering excellence"",""Customization capability"",""European safety compliance"",""Global partnership"",""Aftermarket expertise""]"
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,167,suggested_value_boolean,
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,168,suggested_value_number,
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,169,suggested_value_reference,
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,170,suggested_references,
+263842857005,business_dna_brand_values,MERGE,Brand values,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,171,suggestion_state,
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,172,external_id,business_dna_brand_aesthetic
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,173,published,false
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,174,category,brand_info
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,175,source,storefront
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,176,title,Style and aesthetic
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,177,value_string,
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,178,value_string_list,
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,179,value_boolean,
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,180,value_number,
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,181,value_reference,
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,182,references,
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,183,suggested_value_string,
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,184,suggested_value_string_list,"[""Industrial"",""Technical"",""Professional"",""Clean"",""Functional""]"
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,185,suggested_value_boolean,
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,186,suggested_value_number,
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,187,suggested_value_reference,
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,188,suggested_references,
+263842922541,business_dna_brand_aesthetic,MERGE,Style and aesthetic,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,189,suggestion_state,
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,190,external_id,brand_info_main_brands
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,191,published,false
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,192,category,brand_info
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,193,source,storefront
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,194,title,Key brands
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,195,value_string,
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,196,value_string_list,
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,197,value_boolean,
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,198,value_number,
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,199,value_reference,
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,200,references,
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,201,suggested_value_string,
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,202,suggested_value_string_list,"[""Dormakaba"",""Geze"",""Record"",""Assa Abloy"",""Dunkermotoren""]"
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,203,suggested_value_boolean,
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,204,suggested_value_number,
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,205,suggested_value_reference,
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,206,suggested_references,"[""https://doordynamic.com/collections/dormakaba"",""https://doordynamic.com/collections/geze"",""https://doordynamic.com/collections/assa-abloy-revolving-door-accessories"",""https://doordynamic.com/collections/gilgen-sla"",""https://doordynamic.com/collections/bea""]"
+263843250221,brand_info_main_brands,MERGE,Key brands,,2026-10-16 06:44:01 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,207,suggestion_state,
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,208,external_id,business_info_start_year
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,209,published,false
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,210,category,basic_info
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,211,source,storefront
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,212,title,Year founded
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,213,value_string,
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,214,value_string_list,
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,215,value_boolean,
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,216,value_number,
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,217,value_reference,
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,218,references,
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,219,suggested_value_string,
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,220,suggested_value_string_list,
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,221,suggested_value_boolean,
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,222,suggested_value_number,1999.0
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,223,suggested_value_reference,
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,224,suggested_references,
+263843381293,business_info_start_year,MERGE,Year founded,,2026-10-25 12:31:52 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,225,suggestion_state,
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,226,external_id,second_hand_info_is_second_hand
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,227,published,false
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,228,category,brand_info
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,229,source,storefront
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,230,title,Sells second-hand products
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,231,value_string,
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,232,value_string_list,
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,233,value_boolean,
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,234,value_number,
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,235,value_reference,
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,236,references,
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,237,suggested_value_string,
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,238,suggested_value_string_list,
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,239,suggested_value_boolean,false
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,240,suggested_value_number,
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,241,suggested_value_reference,
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,242,suggested_references,"[""https://doordynamic.com/pages/about-us"",""https://doordynamic.com/pages/technology"",""https://doordynamic.com/collections/automatic-doors-components""]"
+263843512365,second_hand_info_is_second_hand,MERGE,Sells second-hand products,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,243,suggestion_state,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,244,external_id,gift_services_info_gift_wrapping_available
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,245,published,false
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,246,category,gift_services_info
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,247,source,storefront
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,248,title,Gift wrapping
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,249,value_string,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,250,value_string_list,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,251,value_boolean,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,252,value_number,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,253,value_reference,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,254,references,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,255,suggested_value_string,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,256,suggested_value_string_list,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,257,suggested_value_boolean,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,258,suggested_value_number,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,259,suggested_value_reference,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,260,suggested_references,
+263844888621,gift_services_info_gift_wrapping_available,MERGE,Gift wrapping,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,261,suggestion_state,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,262,external_id,gift_services_info_gift_receipts_available
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,263,published,false
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,264,category,gift_services_info
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,265,source,storefront
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,266,title,Gift receipts
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,267,value_string,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,268,value_string_list,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,269,value_boolean,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,270,value_number,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,271,value_reference,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,272,references,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,273,suggested_value_string,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,274,suggested_value_string_list,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,275,suggested_value_boolean,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,276,suggested_value_number,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,277,suggested_value_reference,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,278,suggested_references,
+263844954157,gift_services_info_gift_receipts_available,MERGE,Gift receipts,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,279,suggestion_state,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,280,external_id,gift_services_info_gift_cards_available
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,281,published,false
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,282,category,gift_services_info
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,283,source,storefront
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,284,title,Gift cards
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,285,value_string,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,286,value_string_list,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,287,value_boolean,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,288,value_number,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,289,value_reference,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,290,references,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,291,suggested_value_string,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,292,suggested_value_string_list,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,293,suggested_value_boolean,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,294,suggested_value_number,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,295,suggested_value_reference,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,296,suggested_references,
+263845019693,gift_services_info_gift_cards_available,MERGE,Gift cards,,2026-10-16 06:44:02 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,297,suggestion_state,
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,298,external_id,privacy_policy
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,299,published,true
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,300,category,company_policies_info
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,301,source,admin
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,302,title,Privacy policy
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,303,value_string,
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,304,value_string_list,
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,305,value_boolean,
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,306,value_number,
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,307,value_reference,shopify://policies/privacy-policy
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,308,references,
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,309,suggested_value_string,
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,310,suggested_value_string_list,
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,311,suggested_value_boolean,
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,312,suggested_value_number,
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,313,suggested_value_reference,
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,314,suggested_references,
+294955319341,privacy_policy,MERGE,Privacy policy,,2026-10-20 23:16:50 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,315,suggestion_state,
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,316,external_id,customer_service_info_email_addresses
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,317,published,false
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,318,category,customer_service_info
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,319,source,admin
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,320,title,Email
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,321,value_string,
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,322,value_string_list,
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,323,value_boolean,
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,324,value_number,
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,325,value_reference,shopify://shop/contact-email
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,326,references,
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,327,suggested_value_string,
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,328,suggested_value_string_list,
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,329,suggested_value_boolean,
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,330,suggested_value_number,
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,331,suggested_value_reference,
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,332,suggested_references,
+294955352109,customer_service_info_email_addresses,MERGE,Email,,2026-10-28 08:11:04 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,333,suggestion_state,
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,334,external_id,customer_service_info_physical_address
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,335,published,true
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,336,category,customer_service_info
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,337,source,admin
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,338,title,Address
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,339,value_string,
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,340,value_string_list,
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,341,value_boolean,
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,342,value_number,
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,343,value_reference,shopify://shop/address
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,344,references,
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,345,suggested_value_string,
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,346,suggested_value_string_list,
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,347,suggested_value_boolean,
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,348,suggested_value_number,
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,349,suggested_value_reference,
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,350,suggested_references,
+294955417645,customer_service_info_physical_address,MERGE,Address,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,351,suggestion_state,
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,true,352,external_id,delivery_countries
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,353,published,true
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,354,category,shipping_info
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,355,source,admin
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,356,title,Delivery countries
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,357,value_string,
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,358,value_string_list,
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,359,value_boolean,
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,360,value_number,
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,361,value_reference,shopify://shop/shipping-countries
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,362,references,
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,363,suggested_value_string,
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,364,suggested_value_string_list,
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,365,suggested_value_boolean,
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,366,suggested_value_number,
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,367,suggested_value_reference,
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,368,suggested_references,
+294955450413,delivery_countries,MERGE,Delivery countries,,2026-10-20 23:16:51 -0400,shopify--knowledge-base-fact,Knowledge Base Facts,,369,suggestion_state,
